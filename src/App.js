@@ -38,5 +38,5 @@ export default App;
         constructor(), reder(), componentDidMount():컴포넌트가 마운트 된후, 즉 트리에 삽입된 직후에 호출된다. 
    Updationg:업데이트
    Unmounting: component 죽는거(ex.페이지 바뀔때, state교체 등..)
-
+   깃헙은 어렵군
 */
